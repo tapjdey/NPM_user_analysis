@@ -1,4 +1,4 @@
-## This Folder contains the results of cluster analysis and the Variable Importance Plot
+## This Folder contains the results of cluster analysis and the Variable Importance Plot for the Predictive (Random Forest) Model 
 
 1. Case I: the marginal probabilities of creating an issue for all developers
 
